@@ -1,16 +1,37 @@
-## Hi there 👋
-
-<!--
-**AK7745/AK7745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Readme · MD
+# Hi, I'm Abdullah 👋
+ 
+**Software Engineer** · Building backend systems & cloud infrastructure in Pakistan 🇵🇰
+ 
+---
+ 
+## What I work with
+ 
+| Layer | Stack |
+|---|---|
+| **Backend** | NestJS · Node.js · TypeScript |
+| **Database** | PostgreSQL · MikroORM · Prisma |
+| **Cloud** | Azure (App Service · Functions · Service Bus · Entra ID) |
+| **Tools** | Docker · GitHub Actions · Redis |
+ 
+---
+ 
+## Currently building
+ 
+- 🔭 **Overwatch** — a multi-tenant HSE/safety management platform
+- 🌱 Deepening my Azure infrastructure & event-driven architecture patterns
+- ⚡ Exploring: [add something personal — solar tech side project? open source? etc.]
+---
+ 
+## A bit more
+ 
+- 💼 Software Engineer @ [Cloud Primero / your company name]
+- 📍 Based in Pakistan
+- 🎮 Wind-down with games when I'm not debugging queries
+---
+ 
+## Reach me
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
+<!-- Add email or portfolio if you have one -->
