@@ -1,4 +1,3 @@
-Readme · MD
 # Hi, I'm Abdullah 👋
  
 **Software Engineer** · Building backend systems & cloud infrastructure in Pakistan 🇵🇰
@@ -32,6 +31,6 @@ Readme · MD
  
 ## Reach me
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-khan-3a8b961b4)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AK7745)
 <!-- Add email or portfolio if you have one -->
